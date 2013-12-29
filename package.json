@@ -1,0 +1,31 @@
+{
+  "name": "chat_app",
+  "version": "0.0.0",
+  "description": "A simple app that lets the user post to a public chat wall.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diliprajan/chat-wall"
+  },
+  "keywords": [
+    "chat",
+    "wall",
+    "practice",
+    "firebase",
+    "basic",
+    "app",
+    "node"
+  ],
+  "author": "diliprajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diliprajan/chat-wall/issues"
+  },
+  "homepage": "https://github.com/diliprajan/chat-wall",
+  "dependencies": {
+    "express": "~3.4.7"
+  }
+}
